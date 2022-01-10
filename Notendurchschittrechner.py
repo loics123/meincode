@@ -1,5 +1,3 @@
-# Dieses Programm kann den Notendurchschnitt berechen. Man kann die Noten hinzufügen und dann wird der aktuelle Notendurchschnitt berechnet. So weiss man welchen Notendurchschnitt man im Moment hat.
-
 
 note = []
 
