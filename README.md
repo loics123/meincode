@@ -12,6 +12,6 @@ Dieses Programm kann den Notendurchschnitt berechen. Man kann die Noten hinzufü
 
 
 ## Reflexion:
--Ich habe Python besser kennengelernt.
--Ich kann Listen und Loops in einem Programm einbauen.
--Ich habe gelernt, wie man einfache Dinge programmieren kann.
+- Ich habe Python besser kennengelernt.
+- Ich kann Listen und Loops in einem Programm einbauen.
+- Ich habe gelernt, wie man einfache Dinge programmieren kann.
